@@ -5,6 +5,6 @@
 
 	$hello = hello();
 
-	echo $hello;
-	//a
+	echo "Ae: " . $hello;
+
 ?>
